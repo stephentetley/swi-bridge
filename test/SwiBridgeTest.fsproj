@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="SwiGetTime.fsx" />
+    <None Include="SwiCountAtoms.fsx" />
+    <None Include="SwiFloor.fsx" />
+    <None Include="TestSwi02.fsx" />
+    <None Include="TestSwi03.fsx" />
+    <None Include="TestSwiBridge.fsx" />
+  </ItemGroup>
+
+  <ItemGroup />
+
+</Project>

@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="SwiBridge\ApiStubs.fs" />
+    <Compile Include="SwiBridge\PrimitiveApi.fs" />
+    <Compile Include="SwiBridge\Easy.fs" />
+  </ItemGroup>
+
+</Project>
